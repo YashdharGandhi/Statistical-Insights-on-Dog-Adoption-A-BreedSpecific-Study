@@ -1,4 +1,4 @@
-# **Statistical Insights on Dog Adoption: A Breed-Specific Study**
+# **Statistical Analysis of Breed-Specific Trends in Dog Adoption**
 
 ## **Project Objective**
 This project explores the impact of dog breed on adoption times, challenging the conventional assumption of a 27-week average rehoming time. Using statistical analysis and probability distribution modeling, we assess whether breed differences significantly influence adoption durations and whether adoption strategies should be tailored accordingly.
